@@ -1,6 +1,9 @@
 # 📝 To-Do List Web App
 
-A simple, responsive, and user-friendly To-Do List web application built using HTML, CSS, and JavaScript. This project helps users organize and manage their daily tasks efficiently by providing features to add, complete, and delete tasks.
+**Visit Website** :  https://lithikacse24-lab.github.io/DecodeLabs-Internship-Task1/
+
+A simple, responsive, and user-friendly To-Do List web application built using HTML, CSS, and JavaScript. 
+This project helps users organize and manage their daily tasks efficiently by providing features to add, complete, and delete tasks.
 
 ## 📌 Project Overview
 
