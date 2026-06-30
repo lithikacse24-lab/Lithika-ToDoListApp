@@ -7,10 +7,6 @@
 🔗 **Website:** https://lithikacse24-lab.github.io/Lithika-ToDoListApp/
 >Deployment : Hosted using **Github Pages**
 
-## 📌 Project Overview
-
-The To-Do List Web App is designed to improve productivity by allowing users to keep track of their tasks in a clean and interactive interface. The application works seamlessly across desktop and mobile devices, ensuring a smooth user experience.
-
 ## 🚀 Features
 - ➕ Add new tasks
 - ✔️ Mark tasks as completed
@@ -22,3 +18,24 @@ The To-Do List Web App is designed to improve productivity by allowing users to 
 - **HTML5** – Provides the structure of the application
 - **CSS3** – Handles styling, layout, and responsiveness
 - **JavaScript** – Implements functionality and interactivity
+
+## 📂 Folder Structure
+ToDoList/
+|__ screenshots/
+|   └── home.png
+|   └── add-complete.png
+|   └── delete.png
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
+## 📸 Screenshots
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
+### ➕✔️ Add & Complete Task
+![Add and Complete](screenshots/add-complete.png)
+### 🗑️ Delete Task
+![Delete Task](screenshots/delete.png)
+
+**⭐ If you found this project useful, please consider giving it a star on GitHub !**
