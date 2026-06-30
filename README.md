@@ -20,6 +20,7 @@
 - **JavaScript** – Implements functionality and interactivity
 
 ## 📂 Folder Structure
+```
 ToDoList/
 |__ screenshots/
 |   └── home.png
@@ -29,6 +30,7 @@ ToDoList/
 │── style.css
 │── script.js
 └── README.md
+```
 
 ## 📸 Screenshots
 ### 🏠 Home Screen
